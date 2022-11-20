@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [HeaderCustomFile](https://github.com/NapoTwiixe306/headerfilecustom)
 
-- 👨‍💻 All of my projects are available at [https://napotwiixe306.github.io/portfolios/](https://napotwiixe306.github.io/portfolios/)
+- 👨‍💻 All of my projects are available at [https://julienmilants.fr/](https://julienmilants.fr/)
 
 - 📫 How to reach me **julien.milants@gmail.com**
 
