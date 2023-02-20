@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on [CryptoExtension](https://github.com/NapoTwiixe306/CryptoExtension)
 
-- 🔭 I’m currently working on [HeaderCustomFile](https://github.com/NapoTwiixe306/headerfilecustom)
-
 - 👨‍💻 All of my projects are available at [https://julienmilants.fr/](https://julienmilants.fr/)
 
 - 📫 How to reach me **julien.milants@gmail.com**
