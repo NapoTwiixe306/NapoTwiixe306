@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=napotwiixe306" alt="napotwiixe306" /></a> </p>
 
-- 🔭 I’m currently working on [CryptoExtension](https://github.com/NapoTwiixe306/CryptoExtension)
+- 🔭 I’m currently working on [CryptoExtension](https://gitlab.com/cryptoextension)
 
 - 👨‍💻 All of my projects are available at [https://julienmilants.fr/](https://julienmilants.fr/)
 
