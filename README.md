@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=napotwiixe306&label=Profile%20views&color=0e75b6&style=flat" alt="napotwiixe306" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=napotwiixe306" alt="napotwiixe306" /></a> </p>
-
 - 🔭 I’m currently working on [CryptoExtension](https://gitlab.com/cryptoextension)
 
 - 👨‍💻 All of my projects are available at [https://julienmilants.fr/](https://julienmilants.fr/)
