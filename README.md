@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=napotwiixe306&label=Profile%20views&color=0e75b6&style=flat" alt="napotwiixe306" /> </p>
 
 - 🔭 I’m currently working on https://korli.fr
-- my korli page -> korli.fr/napotwiixe
+- my korli page -> https://korli.fr/napotwiixe
 
 - 📫 How to reach me **julien.milants@gmail.com**
 
